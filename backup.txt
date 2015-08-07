@@ -1,0 +1,8 @@
+The #{noun} at Tanagra
+Kiteo, his #{nouns} #{past-tense verb}
+Shaka, when the #{noun} #{past-tense verb}
+Mirab, with #{nouns} #{past-tense verb}
+Sokath, his eyes #{uncovered}
+The beast at #{at_the}
+Zinda, his #{bodypart} #{color}, his #{bodypart} #{color}
+Uzani, his #{noun} with fists #{open|closed}
